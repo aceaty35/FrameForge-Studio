@@ -1,0 +1,6 @@
+{
+  "name": "FrameForge Studio – Online Video Editor",
+  "description": "Fast, private, browser-based non-linear video editor powered by Web Workers, Canvas 2D compositing, IndexedDB persistence, and FFmpeg.wasm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
